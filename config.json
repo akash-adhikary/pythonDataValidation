@@ -1,0 +1,18 @@
+{
+	"nzCreds": {
+		"UID": "aasok",
+		"PWD": "aasok@735",
+		"DRIVER": "{NetezzaSQL}",
+		"SERVER": "ADCNZA6",
+		"PORT": "5480",
+		"DATABASE": "SYSTEM"
+	},
+	"sfCreds": {
+		"user": "namalapu",
+		"password": "Waste@345",
+		"account": "wm",
+		"authenticator": "externalbrowser",
+		"region": "us-east-1",
+		"warehouse":"DEV_ONEWM_LOAD"
+	}
+}
